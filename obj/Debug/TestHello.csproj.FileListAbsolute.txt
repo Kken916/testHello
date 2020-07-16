@@ -1,0 +1,14 @@
+N:\Dis persons labs\TestHello\TestHello\bin\Debug\TestHello.exe.config
+N:\Dis persons labs\TestHello\TestHello\bin\Debug\TestHello.exe
+N:\Dis persons labs\TestHello\TestHello\bin\Debug\TestHello.pdb
+N:\Dis persons labs\TestHello\TestHello\obj\Debug\TestHello.csproj.CoreCompileInputs.cache
+N:\Dis persons labs\TestHello\TestHello\obj\Debug\TestHello.exe
+N:\Dis persons labs\TestHello\TestHello\obj\Debug\TestHello.pdb
+N:\Dis persons labs\TestHello\TestHello\obj\Debug\TestHello.csprojAssemblyReference.cache
+N:\MSSA notes and storage\coding\labs\Dis persons labs\TestHello\TestHello\bin\Debug\TestHello.exe.config
+N:\MSSA notes and storage\coding\labs\Dis persons labs\TestHello\TestHello\bin\Debug\TestHello.exe
+N:\MSSA notes and storage\coding\labs\Dis persons labs\TestHello\TestHello\bin\Debug\TestHello.pdb
+N:\MSSA notes and storage\coding\labs\Dis persons labs\TestHello\TestHello\obj\Debug\TestHello.csprojAssemblyReference.cache
+N:\MSSA notes and storage\coding\labs\Dis persons labs\TestHello\TestHello\obj\Debug\TestHello.csproj.CoreCompileInputs.cache
+N:\MSSA notes and storage\coding\labs\Dis persons labs\TestHello\TestHello\obj\Debug\TestHello.exe
+N:\MSSA notes and storage\coding\labs\Dis persons labs\TestHello\TestHello\obj\Debug\TestHello.pdb
